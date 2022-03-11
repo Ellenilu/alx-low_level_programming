@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print the alphabet in lowercase
+ * main - print numbers of base 10
  *
- * Description: print the alphabet in lowercase
+ * Description: print numbers of base 10
  *
  * Return: Always 0 (Success)
  */
@@ -14,7 +14,7 @@ int main(void)
 
 	for (i = 0; i < 10; i++)
 
-	printf(i);
-	printf('\n');
+	putchar(i);
+	putchar('\n');
 	return (0);
 }
