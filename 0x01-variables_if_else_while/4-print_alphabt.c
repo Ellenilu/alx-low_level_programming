@@ -14,7 +14,7 @@ int main(void)
 {
 	int i;
 
-	for (i = 'a'; i <= 'z'; i++){
+	for (i = 'a'; i <= 'z'; i++) {
 	
 	if (i == 'e' || i == 'q')
 	{
@@ -23,5 +23,5 @@ int main(void)
 	putchar(i);                                                                                        
 	putchar('\n');
 	return (0);
-}	
+				}	
 }
