@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * rev_string
+ * rev_string - check the code.
  * @s: variable.
  */
 
