@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_rev
+ * print_rev - check the code.
  * @s: variable.
  */
 void print_rev(char *s)
