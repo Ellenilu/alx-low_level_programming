@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * swap_int
+ * swap_int - check the code.
  * @a: variable.
  * @b: variable
  */
