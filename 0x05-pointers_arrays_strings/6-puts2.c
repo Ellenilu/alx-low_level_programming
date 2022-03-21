@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * puts2
+ * puts2 - check the code.
  * @str: variable.
  */
 void puts2(char *str)
