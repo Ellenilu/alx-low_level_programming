@@ -7,7 +7,6 @@
  * @n : the number of times we will fill the memory
  * Return: memory.
  */
-
 char *_memset(char *s, char b, unsigned int n)
 {
 	char *mem = s;
